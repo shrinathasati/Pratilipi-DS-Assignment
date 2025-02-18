@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/yourusername/pratilipi-recommendation-system.git](https://github.com/shrinathasati/Pratilipi-DS-Assignment.git)
+git clone [https://github.com/shrinathasati/Pratilipi-DS-Assignment.git](https://github.com/shrinathasati/Pratilipi-DS-Assignment.git)
 cd pratilipi-recommendation-system
 ```
 
